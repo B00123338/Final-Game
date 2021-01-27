@@ -1,0 +1,13 @@
+
+All the code I used for my game came from the create with code units 1-6 that we covered.
+
+Create with code Assets: Unit 5 - Lab 5 (Course Library-Asset Store)
+https://learn.unity.com/tutorial/lab-5-swap-out-your-assets-1?uv=2018.4&courseId=5cf96c41edbc2a2ca6e8810f&projectId=5cf96bdeedbc2a2b475972b3#
+
+
+Unity Asset Store
+Free Heavy Fighter Aircraft
+https://assetstore.unity.com/packages/3d/vehicles/air/free-heavy-fighter-aircrafts-loaded-fire-power-150093
+
+
+I had problems with swapping over my assets, so I decided to leave them instead of breaking my code.
